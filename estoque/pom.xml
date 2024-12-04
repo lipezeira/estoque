@@ -11,7 +11,7 @@
     <groupId>com.example</groupId>
     <artifactId>ifbademo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ifbademo_mat</name>
+    <name>Gerenciador de Estoque</name>
     <description>Demo project for Spring Boot turma matutino</description>
     <url/>
     <licenses>
